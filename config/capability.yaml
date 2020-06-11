@@ -1,0 +1,25 @@
+#capability配置信息
+
+platformName: Android
+deviceName: 27dc7322
+
+devicesList:
+#  - 192.168.1.107:7413
+  - 27dc7322
+  - 127.0.0.1:62001
+  - 127.0.0.1:62025
+
+platformVersion: 7.1.1
+chromedriver: chromedriver.exe
+appPackage: com.taobao.taobao
+appActivity: com.taobao.tao.welcome.Welcome
+appname: 701483.apk
+noReset: True
+unicodeKeyboard: False
+resetKeyboard: False
+ip: localhost
+port: 4723
+host: 127.0.0.1
+
+user:
+password:

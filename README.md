@@ -1,7 +1,7 @@
 # GetMiaoCoin
 淘宝2020活动 618列车喵币自动领取
 ==
-使用python+appium编写
+使用python+appium编写，Android手机可以使用（可能部分屏幕分辨率比较少见导致无法进入618活动），没有苹果环境，所以没做测试。
 ## 如何使用
 1.安装jdk并配置jdk环境变量<br>
 2.安装sdk并配置sdk环境变量<br>

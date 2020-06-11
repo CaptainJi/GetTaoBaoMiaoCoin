@@ -11,10 +11,10 @@
 6.使用记事本打开config目录中的capability.yaml文件，在“appname: ”后填入刚下载好的淘宝app的文件名，如：“appname: 701483.apk” 注意：“appname:”后要留有一个空格。<br>
 7.capability.yaml中的“platformVersion: ”也需要修改为自己手机系统的版本<br>
 8.手机使用usb连接电脑<br>
-9.打开cmd 
-输入 pip install selenium
-输入 pip install appium
-输入 pip install pyyaml
+9.打开cmd <br>
+输入 pip install selenium<br>
+输入 pip install appium<br>
+输入 pip install pyyaml<br>
 9.打开cmd 进入到脚本目录，输入python run.py<br>
 环境配置可查看此连接：[Appium环境配置](https://github.com/CaptainJi/Appium-AutoTest/blob/master/Appium%20MD%E6%95%99%E7%A8%8B/Appium%E5%9F%BA%E7%A1%80/3.Appium%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md)
 
